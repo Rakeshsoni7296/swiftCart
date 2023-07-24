@@ -1,6 +1,6 @@
 // Setting up config file
 const dotenv = require("dotenv");
-dotenv.config({ path: "backend/config/config.env" });
+dotenv.config({ path: "server/config/config.env" });
 
 // Handle Uncaught exception
 process.on("uncaughtException", (err) => {
