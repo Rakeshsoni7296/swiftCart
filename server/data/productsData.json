@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Canon EOS 3000D DSLR Camera",
+    "price": 28990,
+    "description": "If you are a photography enthusiast, then the Canon EOS 3000D DSLR Camera is a must-have gadget. Featuring an 18 MP (APS-C) CMOS sensor and the DIGIC 4+ imaging processor, you can capture amazing photos of your subject at all times, even in low-light conditions. Moreover, the remote Live View function lets you control this camera remotely using your smartphone so you can capture amazing photos even from a distance.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/camera_1.jpg",
+      "/imgs/products/camera_2.jpg",
+      "/imgs/products/camera_3.jpg",
+      "/imgs/products/camera_4.jpg"
+    ],
+    "category": "Cameras",
+    "seller": "TB smart",
+    "stock": 25,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "Ethnic Motifs Saree",
+    "price": 477,
+    "description": "Elevate your ethnic wardrobe with the GORGONE Ethnic Motifs Saree. Crafted with exquisite detail, this saree showcases intricate ethnic motifs that add a touch of elegance and sophistication. Made from high-quality fabric, it drapes beautifully and is perfect for special occasions, weddings, or cultural events.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/sarees_1.jpg",
+      "/imgs/products/sarees_2.jpg",
+      "/imgs/products/sarees_3.jpg",
+      "/imgs/products/sarees_4.jpg"
+    ],
+    "category": "Clothes",
+    "seller": "SAREE CENTER",
+    "stock": 19,
+    "user": "64a191fda6ddc217fe12a3ba"
+  },
+  {
+    "name": "WASHINGTON Apple 2 Units",
+    "price": 128,
+    "description": "Get the finest quality WASHINGTON Apples delivered right to your doorstep. Enjoy the juicy, crisp and refreshing taste of these premium apples, handpicked to perfection. Perfect for snacking or incorporating into your favorite recipes, these 2 units of WASHINGTON Apples are a delicious and healthy choice for all apple lovers.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/apple_1.jpg",
+      "/imgs/products/apple_2.jpg",
+      "/imgs/products/apple_3.jpg"
+    ],
+    "category": "Food",
+    "seller": "SuperComNet",
+    "stock": 169,
+    "user": "64a192b6a6ddc217fe12a3c2"
+  },
+  {
+    "name": "Wings of Fire",
+    "price": 105,
+    "description": "Discover the captivating autobiography, \"Wings of Fire,\" penned by former President of India, Dr. A.P.J. Abdul Kalam. Dive into the inspiring journey of a humble boy who overcame adversity to become a renowned scientist and visionary leader. This book is a must-read for those seeking motivation, knowledge, and a glimpse into the extraordinary life of one of India's most iconic figures.",
+    "ratings": 0,
+    "images": ["/imgs/products/book_1.jpg", "/imgs/products/book_2.jpg"],
+    "category": "Books",
+    "seller": "Repro Books on Demand",
+    "stock": 63,
+    "numOfReviews": 0,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "Unisex Square Sunglasses",
+    "price": 774,
+    "description": "Embrace timeless style with the Voyage Unisex Square Sunglasses. These sunglasses feature a sleek square design that suits both men and women. With their versatile appeal and UV protection, they are the perfect accessory to elevate your look while protecting your eyes from the sun's rays.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/img_1.jpg",
+      "/imgs/products/img_2.jpg",
+      "/imgs/products/img_3.jpg",
+      "/imgs/products/img_4.jpg",
+      "/imgs/products/img_5.jpg"
+    ],
+    "category": "Sunglasses",
+    "seller": "SS ENTERPRISES",
+    "stock": 76,
+    "user": "64a1925ba6ddc217fe12a3be"
+  },
+  {
+    "name": "Cosko Running Shoes",
+    "price": 999,
+    "description": "Experience the perfect blend of style and comfort with ASIAN Shoes Cosko Running Shoes for men and women. Designed for active individuals, these shoes feature a sleek and trendy design. With their superior cushioning and breathable construction, they provide optimal support and performance during your running sessions or daily activities.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/shoe_1.jpg",
+      "/imgs/products/shoe_2.jpg",
+      "/imgs/products/shoe_3.jpg",
+      "/imgs/products/shoe_4.jpg"
+    ],
+    "category": "Shoes",
+    "seller": "ASIAN RETAIL VENTURES",
+    "stock": 123,
+    "user": "64a192b6a6ddc217fe12a3c2"
+  },
+  {
+    "name": "Nokia 164 cm (65 inch) Ultra HD (4K) LED Smart Android TV",
+    "price": 42999,
+    "description": "Bring home this TV from Nokia and deep-dive into a world of lifelike colours. Boasting a sleek and stunning design, this TV features Micro Dimming and a MaxBrite Display to ensure that you enjoy clear and crisp detail with vibrant colours.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/tv_1.jpg",
+      "/imgs/products/tv_2.jpg",
+      "/imgs/products/tv_3.jpg",
+      "/imgs/products/tv_4.jpg"
+    ],
+    "category": "Electronics",
+    "seller": "Flashstar Commerce",
+    "stock": 11,
+    "user": "64a191fda6ddc217fe12a3ba"
+  },
+  {
+    "name": "SAMSUNG Crystal 4K iSmart Series  Ultra HD Smart Tizen TV",
+    "price": 73990,
+    "description": "With the excellent Samsung TV, which recognises your mood and aims to keep you delighted continually, you can take advantage of rich, clear, and original audiovisual material in its true form. With its real 4K resolution, the Samsung 163 cm (65) Ultra HD LED Smart Tizen TV allows you to see every hue. Thanks to the potent 4K upscaling, you can watch your preferred entertainment in excellent quality and with lifelike visuals. The TV can also express a wide range of colours thanks to PurColor for the best possible image quality and an enjoyable watching experience. Additionally, you can select your preferred genres, TV shows, and much more with the Smart Hub that is integrated into this TV so that you can spend more time enjoying your favourite films and games and less time browsing.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/samsung_1.jpg",
+      "/imgs/products/samsung_2.jpg",
+      "/imgs/products/samsung_3.jpg"
+    ],
+    "category": "Electronics",
+    "seller": "IWQNBecommerce",
+    "stock": 5,
+    "numOfReviews": 0,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "LEQTRONIQ 48 MP 4K Digital Video Camera",
+    "price": 14990,
+    "description": "4K UHD 60FPS 48MP Storage: SD Card up to 128GB (not included) Recording While Charging External Microphone Webcam Remote Control HDMI Support TV/PC Connection Support Selfie Time Stamp Function Face Detection Continuous Shooting Digital Zoom: 18X",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/camera_1.jpg",
+      "/imgs/products/camera_2.jpg",
+      "/imgs/products/camera_3.jpg",
+      "/imgs/products/camera_4.jpg",
+      "/imgs/products/camera_5.jpg"
+    ],
+    "category": "Cameras",
+    "seller": "JuSt ShOp 24X7",
+    "stock": 77,
+    "user": "64a1925ba6ddc217fe12a3be"
+  },
+  {
+    "name": "ASUS Vivobook 15 Core i5 12th Gen 8 GB/512 GB SSD/Windows 11 Home",
+    "price": 50990,
+    "description": "Introducing the ASUS Vivobook 15 X1502ZA-EJ515WS Thin and Light Laptop, equipped with a powerful 12th Gen Core i5 processor. This sleek device boasts an 8 GB RAM and a lightning-fast 512 GB SSD, providing seamless multitasking and ample storage. With its stunning 15.6-inch display, Icelight Silver design, and weighing only 1.7 kg, this laptop is both stylish and portable. It comes pre-installed with Windows 11 Home and includes Microsoft Office, making it the perfect productivity companion for work or play.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/asus_1.jpg",
+      "/imgs/products/asus_2.jpg",
+      "/imgs/products/asus_3.jpg"
+    ],
+    "category": "Laptops",
+    "seller": "SVPeripherals",
+    "stock": 36,
+    "user": "64a192b6a6ddc217fe12a3c2"
+  },
+  {
+    "name": "APPLE 2020 Macbook Air M1 8 GB/256 GB SSD/Mac OS Big Sur",
+    "price": 81990,
+    "description": "This Apple Macbook is powered by the Apple M1 chip and is easily portable so that you can carry it with you anywhere you want. This thin and light notebook is equipped with an 8-core CPU to handle all your tasks more efficiently. The 8-core GPU of this notebook takes graphic-intensive games and apps to a whole new level. It also comes with a 16-core Neural Engine to do machine learning tasks more effectively. Its fan-less design offers silent operations and has a long-lasting battery life which can last up to 18 hours on a single charge.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/mac_book_1.jpg",
+      "/imgs/products/mac_book_2.jpg",
+      "/imgs/products/mac_book_3.jpg"
+    ],
+    "category": "Laptops",
+    "seller": "TREASURE HAUL ONLINE",
+    "stock": 41,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "MOOZMOB Latest Version B11 Bluetooth Neckband",
+    "price": 283,
+    "description": "Introducing the latest version of MOOZMOB B11 Neckband Bluetooth Headset in a stylish blue color. Designed to be compatible with all smartphones and tablets, this neckband offers seamless wireless connectivity. With its comfortable in-ear design, it provides a snug fit and superior sound quality. Stay connected on the go with this sleek and convenient Bluetooth headset.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/headset_1.jpg",
+      "/imgs/products/headset_2.jpg",
+      "/imgs/products/headset_3.jpg"
+    ],
+    "category": "Headphones",
+    "seller": "MoozmobAccessories",
+    "stock": 144,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "boAt Rockerz 510 Super Extra Bass Bluetooth Headset",
+    "price": 1099,
+    "description": "If you are looking for an efficient wireless headset, then this boAt headset is ideal for you. Its 50 mm drivers bring your audio files to life so that your aural experience is immersive. Moreover, you can enjoy up to 10 hours of playback time with a fully charged battery. Furthermore, it can be connected to your media devices with the help of an AUX cable as well.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/headphone_1.jpg",
+      "/imgs/products/headphone_2.jpg"
+    ],
+    "category": "Headphones",
+    "seller": "SVPeripherals",
+    "stock": 87,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "Paudha Pomegranate ( Anaar ) Hybrid Seed  (40 per packet)",
+    "price": 139,
+    "description": "Pomegranate grows well under semi-arid conditions and can be grown upto an altitude of 500 m. above m.s.l.. It thrives well under hot, dry summer and cold winter provided irrigation facilities are available. The tree requires hot and dry climate during fruit development and ripening.",
+    "ratings": 0,
+    "images": ["/imgs/products/anar_1.jpg", "/imgs/products/anar_2.jpg"],
+    "category": "Food",
+    "seller": "wequality",
+    "stock": 18,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "Men Blue Slim Fit Printed Round Neck T-shirt",
+    "price": 274,
+    "description": "Elevate your casual style with the HIGHLANDER Men Blue Slim Fit Printed Round Neck T-shirt. Crafted with precision, this slim-fit t-shirt features a trendy print and a comfortable round neck design. Made with high-quality materials, it offers both style and comfort, making it a versatile choice for any occasion.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/Tshirt_1.jpg",
+      "/imgs/products/Tshirt_2.jpg",
+      "/imgs/products/Tshirt_3.jpg"
+    ],
+    "category": "Clothes",
+    "seller": "Savan Retailers Private Limited",
+    "stock": 58,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "Girls Floral Printed Midi Cotton Dress With Schiffli Tie-Up Shrug",
+    "price": 1370,
+    "description": "Dress your little one in adorable style with the pspeaches Girls Floral Printed Midi Cotton Dress. Featuring a charming floral print and a comfortable midi length, this dress is perfect for any occasion. The accompanying Schiffli tie-up shrug adds an extra touch of elegance, making it a delightful ensemble for your little fashionista.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/female_1.jpg",
+      "/imgs/products/female_2.jpg",
+      "/imgs/products/female_3.jpg",
+      "/imgs/products/female_4.jpg",
+      "/imgs/products/female_5.jpg"
+    ],
+    "category": "Clothes",
+    "seller": "SMIANKA STYLE AND FASHION PRIVATE LIMITED",
+    "stock": 67,
+    "user": "64a1925ba6ddc217fe12a3be"
+  },
+  {
+    "name": "Women Navy Blue Embroidered Mirror Work Kurta with Trousers",
+    "price": 659,
+    "description": "Step out in style with the KALINI Women Navy Blue Embroidered Mirror Work Kurta with Trousers. This stunning ensemble features intricate mirror work embroidery that adds a touch of glamour to the navy blue kurta. Paired with matching trousers, it creates a chic and fashionable look that's perfect for both formal and festive occasions.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/kurtas_1.jpg",
+      "/imgs/products/kurtas_2.jpg",
+      "/imgs/products/kurtas_3.jpg"
+    ],
+    "category": "Clothes",
+    "seller": "VB Export",
+    "stock": 48,
+    "user": "64a1925ba6ddc217fe12a3be"
+  },
+  {
+    "name": "Men Slim Fit Mid-Rise Heavy Fade Stretchable Jeans",
+    "price": 449,
+    "description": "Upgrade your denim collection with the V-Mart Men Slim Fit Mid-Rise Heavy Fade Stretchable Jeans. These stylish jeans offer a perfect blend of comfort and style with their slim fit and mid-rise design. The heavy fade adds a trendy touch, while the stretchable fabric ensures a comfortable and flexible fit all day long. Perfect for casual outings or a night on the town.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/jeans_1.jpg",
+      "/imgs/products/jeans_2.jpg",
+      "/imgs/products/jeans_3.jpg"
+    ],
+    "category": "Clothes",
+    "seller": "V-Mart Retail Limited",
+    "stock": 73,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "Men Charcoal Pure Cotton Casual Sustainable Shirt",
+    "price": 419,
+    "description": "Stay effortlessly stylish with the Roadster Men Charcoal Pure Cotton Casual Sustainable Shirt. Crafted from pure cotton, this shirt offers a comfortable and breathable feel. With its versatile charcoal color and sustainable construction, it's the perfect choice for a casual yet eco-conscious wardrobe.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/shirt_1.jpg",
+      "/imgs/products/shirt_2.jpg",
+      "/imgs/products/shirt_3.jpg"
+    ],
+    "category": "Clothes",
+    "seller": "Savadika Retail Private Limited",
+    "stock": 102,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "Magenta & White Floral A-Line Cotton Dress with Attached Shrug",
+    "price": 975,
+    "description": "Upgrade your little one's wardrobe with the pspeaches Magenta & White Floral A-Line Cotton Dress. This charming dress features a beautiful floral pattern in magenta and white, exuding a sweet and feminine appeal. The attached shrug adds a touch of elegance, making it a perfect choice for special occasions or dress-up days.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/girlKid_1.jpg",
+      "/imgs/products/girlKid_2.jpg",
+      "/imgs/products/girlKid_3.jpg"
+    ],
+    "category": "Clothes",
+    "seller": "SMIANKA STYLE AND FASHION PRIVATE LIMITED",
+    "stock": 116,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "Boys Pure Cotton T-shirt with Trousers",
+    "price": 799,
+    "description": "Dress your little champ in style with SmartRAHO Boys Pure Cotton T-shirt with Trousers. Made from soft and breathable pure cotton, this set offers optimal comfort and freedom of movement. The trendy design and vibrant colors make it a perfect choice for casual outings or playtime adventures.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/boyKid_1.jpg",
+      "/imgs/products/boyKid_2.jpg",
+      "/imgs/products/boyKid_3.jpg",
+      "/imgs/products/boyKid_4.jpg",
+      "/imgs/products/boyKid_5.jpg"
+    ],
+    "category": "Clothes",
+    "seller": "SMARTRAHO",
+    "stock": 23,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "Boys Single-Breasted 4-Piece Party Suit With Bow",
+    "price": 2480,
+    "description": "Let your little gentleman steal the show with the KID1 Boys Single-Breasted 4-Piece Party Suit. This stylish suit set includes a single-breasted jacket, trousers, a crisp shirt, and a dapper bow tie. Crafted with attention to detail, it ensures a sharp and sophisticated look for any special occasion or formal event.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/kid_boy_1.jpg",
+      "/imgs/products/kid_boy_2.jpg",
+      "/imgs/products/kid_boy_3.jpg"
+    ],
+    "category": "Clothes",
+    "seller": "One Life Creations",
+    "stock": 31,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "APPLE Airpods Pro with MagSafe Charging Case Bluetooth Headset",
+    "price": 16990,
+    "description": "AirPods Pro have been designed to deliver Active Noise Cancellation for immersive sound, Transparency mode so you can hear your surroundings and a customisable fit for all-day comfort. Just like AirPods, AirPods Pro connect magically to your Apple devices. And they're ready to use straight out of the case.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/air_pods_1.jpg",
+      "/imgs/products/air_pods_2.jpg",
+      "/imgs/products/air_pods_3.jpg",
+      "/imgs/products/air_pods_4.jpg"
+    ],
+    "category": "Electronics",
+    "seller": "HydtelRETAILSsales",
+    "stock": 11,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "SanDisk Extreme A2 128 GB MicroSD Card Class",
+    "price": 1069,
+    "description": "The SanDisk Extreme PRO® memory card lets you save time transferring media with read speeds of up to 200MB/s* powered by SanDisk Technology. Pair with the SanDisk® Professional PRO-READER SD and to achieve maximum speeds (sold separately). With shot speeds of up to 90MB/s* it’s ideal for your Android™ smartphone, action cameras, or drones. This high-performance microSD™ captures 4K UHD video recording, Full HD video, and high-resolution photos.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/san_disk_1.jpg",
+      "/imgs/products/san_disk_2.jpg"
+    ],
+    "category": "Electronics",
+    "seller": "MTAILMODEECOM",
+    "stock": 58,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  },
+  {
+    "name": "AMUSING Latest 4 Port USB Hub 3.0 Adapter Cable",
+    "price": 300,
+    "description": "Presenting The USB 3.0 4-Port Hub provides a high-performance solution. It allows you to connect USB-enabled devices such as external hard drives, keyboards, digital cameras, printers, and scanners. The lightweight and portable design is an ideal companion for people on the road. Important Note: - 5.0Gbps wireless devices, such as Bluetooth keyboard and mouse adapter, may not work close to USB3.0 which may lead to malfunction. Such devices should be connected to USB 3.0 port is recommended - The product is designed for data transferring ONLY not charging - The total current of 4 ports must not exceed 900mA.",
+    "ratings": 0,
+    "images": [
+      "/imgs/products/usb_adaptor_1.jpg",
+      "/imgs/products/usb_adaptor_2.jpg",
+      "/imgs/products/usb_adaptor_3.jpg"
+    ],
+    "category": "Electronics",
+    "seller": "EotOriginalProducts",
+    "stock": 39,
+    "user": "64a191b8a6ddc217fe12a3ae"
+  }
+]
