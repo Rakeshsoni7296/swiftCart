@@ -35,4 +35,4 @@ In server directory <br />
 npm run prod <br />
 
 ## The webpage will appears like:
-![Landing Page](./img.jpg)
+<img src="./img.jpg" alt="Landing Page" width="600" height="300"/>
